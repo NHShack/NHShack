@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # photo
-    <p align="center">
+<p align="center">
 <img src='SS/20230129_125232.jpg' style="height:500px;width:300px;" >
 </p>
